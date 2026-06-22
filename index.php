@@ -235,7 +235,7 @@ $keunggulan = [
       j.src =
         'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
       f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T8QWF7CH');
+    })(window, document, 'script', 'dataLayer', 'GTM-WZDC5B3M');
   </script>
   <!-- End Google Tag Manager -->
 
@@ -274,7 +274,7 @@ $keunggulan = [
 
 <body class="font-poppins text-slate-700 overflow-x-hidden">
   <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8QWF7CH"
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZDC5B3M"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
@@ -417,7 +417,7 @@ $keunggulan = [
           <div class="md:!col-span-7 p-5 md:p-10 md:-top-10 lg:p-20 z-10 sm:max-w-[600px] lg:max-w-full">
             <h1
               class="max-w-[400px] mb-3 text-white text-3xl leading-[40px] md:text-[40px] md:leading-[50px] lg:text-5xl lg:leading-[70px] font-bold text-left">
-              <?= $brand ?>
+              <?= $brand ?> Travel Jawa
             </h1>
             <p class="desc text-[17px] leading-7 !text-slate-300 !mb-5"><?= $desc; ?></p>
             <div class="flex gap-x-5 mt-7">
