@@ -8,7 +8,7 @@ $logo = 'src/img/logo.webp';
 $logoPanjang = 'src/img/logo.webp';
 $title = $brand . " - Travel terbaik di Purwokerto Banyumas Purbalingga";
 $desc = $brand . ", siap membantu perjalanan travel dari Purwokerto Banyumas Purbalingga ke seluruh daerah di Jawa";
-$telp = '0895-1970-1457';
+$telp = '0823-3962-3630';
 // $telp2 = '0857-9190-4615';
 $alamat = 'Kajongan, Kec. Bojongsari, Kabupaten Purbalingga, Jawa Tengah 53362';
 
